@@ -6,7 +6,7 @@
 
 ### Preview
 
-#### [在线预览 Live Demo →](http://liaokeyu.com/)
+#### [在线预览 Live Demo →](https://zhouyuzheng.github.io/)
 
 ![](screenshot/jekyll-theme-h2o-realhome.jpg)
 
