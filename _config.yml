@@ -2,7 +2,7 @@
 title: '周玉挣的独立博客'
 description: ''
 keyword: '周玉挣, 周玉挣的独立博客, 周玉挣的博客, 安卓, 安卓开发, Android, Android Developer'
-url: 'zhouyuzheng.github.io' # your host
+url: 'https://zhouyuzheng.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -40,7 +40,7 @@ comments:
 
 # Reward 赞赏功能 by Ray-Eldath
 reward:
-  enable: true
+  enable: false
   reward_comment: '真诚赞赏 手有余香'
   wechatpay: 'http://ray-eldath.image.alimmdn.com/basic/wechatpay.jpg'
   alipay: 'http://ray-eldath.image.alimmdn.com/basic/alipay.jpg'
@@ -63,11 +63,11 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'mailto:ray.eldath@aol.com'
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+ # email: 'mailto:ray.eldath@aol.com'
+  #weibo: '//weibo.com/lovecolcol'
+  #juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
+  #instagram: '//www.instagram.com/steveliaocn'
+  github: '//github.com/zhouyuzheng'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
