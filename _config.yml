@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '周玉挣的独立博客'
+title: '周玉挣的个人博客'
 description: ''
-keyword: '周玉挣, 周玉挣的独立博客, 周玉挣的博客, 安卓, 安卓开发, Android, Android Developer'
+keyword: '周玉挣, 周玉挣的个人博客, 周玉挣的博客, 安卓, 安卓开发, Android, Android Developer'
 url: 'https://zhouyuzheng.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
