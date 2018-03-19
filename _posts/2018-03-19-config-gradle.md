@@ -2,7 +2,7 @@
 layout: post
 title: 'config.gradle全局配置统一管理项目依赖版本'
 date: 2018-03-19
-author: Zhouyuzheng
+author: 周玉挣
 cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521447977484&di=44a4719f236f207d3db2f1965a84f51f&imgtype=0&src=http%3A%2F%2Fa1.jikexueyuan.com%2Fhome%2F201512%2F31%2Fe075%2F5684922dae731.jpg'
 tags: Gradle Android
 ---
