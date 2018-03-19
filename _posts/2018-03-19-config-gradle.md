@@ -3,11 +3,12 @@ layout: post
 title: 'config.gradle全局配置统一管理项目依赖版本'
 date: 2018-03-19
 author: Zhouyuzheng
-cover: ''
+cover: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521447977484&di=44a4719f236f207d3db2f1965a84f51f&imgtype=0&src=http%3A%2F%2Fa1.jikexueyuan.com%2Fhome%2F201512%2F31%2Fe075%2F5684922dae731.jpg'
 tags: Gradle Android
 ---
 
-当你需要统一项目依赖库版本，可通过配置全局变量来管理版本与依赖
+> 当你需要统一项目依赖库版本，可通过配置全局变量来管理版本与依赖
+
 ### 一、根目录下创建config.gradle文件
 ![](https://github.com/zhouyuzheng/zhouyuzheng.github.io/blob/master/screenshot/gradle-config.png?row=true)
 
