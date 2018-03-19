@@ -10,16 +10,16 @@ tags: Gradle Android
 > 当你需要统一项目依赖库版本，可通过配置全局变量来管理版本与依赖
 
 ### 一、根目录下创建config.gradle文件
-![](../screenshot/gradle-config.png?row=true)
+![](https://upload-images.jianshu.io/upload_images/3903245-d3338b9c1adf1a22.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 二、config.gradle中添加
-![](../screenshot/gradle-add.png?row=true)
+![](https://upload-images.jianshu.io/upload_images/3903245-3fd2e211e00307a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 三、在根目录build.gradle中添加
 apply from: 'config.gradle'
-![](../screenshot/gradle-apply.png?row=true)
+![](https://upload-images.jianshu.io/upload_images/3903245-251a5b52c18f9c79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 四、app或依赖库目录下的build.gradle中就可以引用全局变量了
-![](../screenshot/gradle-link1.png?row=true)
+![](https://upload-images.jianshu.io/upload_images/3903245-4154c59c17fdf765.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![](../screenshot/gradle-link2.png?row=true)
+![](https://upload-images.jianshu.io/upload_images/3903245-5e5c4b08955ffd40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
