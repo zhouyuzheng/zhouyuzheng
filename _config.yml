@@ -2,7 +2,7 @@
 title: '周玉挣的个人博客'
 description: ''
 keyword: '周玉挣, 周玉挣的个人博客, 周玉挣的博客, 安卓, 安卓开发, Android, Android Developer'
-url: 'https://zhouyuzheng.github.io' # your host
+url: 'https://zxkun15.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -63,7 +63,8 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  github: '//github.com/zhouyuzheng'
+  github: '//github.com/zxkun15'
+  jianshu: '//www.jianshu.com/u/66de32226028'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
